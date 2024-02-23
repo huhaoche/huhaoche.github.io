@@ -8,7 +8,7 @@ My name is HHC. I have the following qualities:
 - My major is electrical engineering specialized in **Integrated circuit** with a master degree from Columbia University.
 - I like swimming, running and going to fitness center everyday.
 - I'm extremely loyal to my family
-- My [resume] （Resume.pdf)
+- My [resume] （/Resume.pdf)
 
   
 What else do you need?
