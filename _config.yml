@@ -20,7 +20,7 @@ author: HHC
 ###############################################
 
 navbar-links:
-  elecrtrical engineering Me: "http://google.com"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
