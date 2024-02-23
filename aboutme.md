@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: electrical engineer like investing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
+My name is HHC. I have the following qualities:
+- My major is electrical engineering specialized in **Integrated circuit** with a master degree from Columbia University.
+- I like swimming, running and going to fitness center everyday.
 - I'm extremely loyal to my family
 
 What else do you need?
