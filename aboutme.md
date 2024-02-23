@@ -9,6 +9,8 @@ My name is HHC. I have the following qualities:
 - I like swimming, running and going to fitness center everyday.
 - I'm extremely loyal to my family
 - My [resume]("HU HAOCHENG RESUME (1).pdf")
+
+  
 What else do you need?
 
 ### My story
