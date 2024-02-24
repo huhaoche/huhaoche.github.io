@@ -12,6 +12,9 @@ My name is HHC. I have the following qualities:
 Icon=fas fa-beer
   <span class="fa fa-graduation-cap about-icon"></span>
 What else do you need?
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+
 
 ### My story
 
